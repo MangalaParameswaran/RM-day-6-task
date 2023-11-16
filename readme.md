@@ -1,1 +1,1 @@
-This task is about to create class constructor property,method, object using geter and seter
+This task is about[OOPS concept] to create a class constructor using property,method, object , geter & seter.
